@@ -1,0 +1,12 @@
+{
+  "name": "drprockz-mods",
+  "owner": { "name": "Darshan Parmar" },
+  "metadata": { "description": "Darshan's private Claude Code mods" },
+  "plugins": [
+    {
+      "name": "session-dash",
+      "source": "./plugins/session-dash",
+      "description": "Session dashboard sidebar, status line and month-to-date cost"
+    }
+  ]
+}
